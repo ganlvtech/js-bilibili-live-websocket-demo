@@ -1,0 +1,28 @@
+{
+  "name": "bilibili-live-websocket",
+  "version": "1.0.0",
+  "description": "A simple demo of bilibili live websocket",
+  "main": "bilibili-live-websocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganlvtech/bilibili-live-websocket-js.git"
+  },
+  "keywords": [
+    "bilibili",
+    "websocket",
+    "live",
+    "demo"
+  ],
+  "author": "Ganlv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganlvtech/bilibili-live-websocket-js/issues"
+  },
+  "homepage": "https://github.com/ganlvtech/bilibili-live-websocket-js#readme",
+  "dependencies": {
+    "ws": "^6.1.2"
+  }
+}
